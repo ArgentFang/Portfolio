@@ -33,7 +33,7 @@ nav{
 	flex-wrap: wrap;
 }
 .logoimage{
-	background-image: url("https://static.wikia.nocookie.net/deadspace/images/0/0a/LightRedMarker.png/revision/latest/scale-to-width-down/150?cb=20150220111540.jpg%22");
+	background-image: url("https://static.wikia.nocookie.net/deadspace/images/0/0a/LightRedMarker.png/revision/latest/scale-to-width-down/150?cb=20150220111540.jpg");
 	display: inline-block;
 	position:absolute;
 	bottom: 460px;
