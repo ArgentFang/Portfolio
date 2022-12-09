@@ -41,8 +41,6 @@ nav{
 	padding-top: 450px;
 	padding-left: 0.1%;
 	padding-right: 8%;	
-	flex-wrap: wrap;
-	flex-direction: row;
 	cursor:pointer;
 
 }
